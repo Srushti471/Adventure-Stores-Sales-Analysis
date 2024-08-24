@@ -21,10 +21,13 @@ Adventure Works, a leading provider of outdoor products and adventure gear, face
 ### Objective
 The main objective was to develop an interactive sales dashboard that would consolidate sales data, customer demographics, and inventory information into a single, accessible platform. This dashboard aimed to empower the management team with actionable insights to drive business growth and operational efficiency.
 
+# Power BI Dashboard
+![Screenshot (52)](https://github.com/user-attachments/assets/f4c84bd3-86bb-45ba-8f3d-175c7cc3d03b)
 
 ### Scope
 
-<B>The dashboard was designed to cover:</b>
+<B>The dashboard
+ was designed to cover:</b>
 
 - Overall sales metrics and trends
 - Product performance analysis
@@ -117,4 +120,3 @@ The main objective was to develop an interactive sales dashboard that would cons
 The Adventure Works Sales Dashboard project successfully addressed the company’s need for a centralized, real-time reporting tool. By providing deep insights into sales performance, customer behavior, and inventory management, the dashboard has become an essential resource for driving business growth and operational efficiency. The project highlights the importance of leveraging data analytics to make informed, strategic decisions in a competitive retail environment.
 
 
-![Screenshot (46)](https://github.com/user-attachments/assets/03e9197e-51b5-4e8a-908f-e383ecf7178b)
