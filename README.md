@@ -116,3 +116,5 @@ The main objective was to develop an interactive sales dashboard that would cons
 ## 8. Conclusion
 The Adventure Works Sales Dashboard project successfully addressed the company’s need for a centralized, real-time reporting tool. By providing deep insights into sales performance, customer behavior, and inventory management, the dashboard has become an essential resource for driving business growth and operational efficiency. The project highlights the importance of leveraging data analytics to make informed, strategic decisions in a competitive retail environment.
 
+
+![Screenshot (46)](https://github.com/user-attachments/assets/03e9197e-51b5-4e8a-908f-e383ecf7178b)
