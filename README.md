@@ -25,11 +25,17 @@ The main objective was to develop an interactive sales dashboard that would cons
 ![Screenshot (52)](https://github.com/user-attachments/assets/f4c84bd3-86bb-45ba-8f3d-175c7cc3d03b)
 
 ## Invetory KPI'S
+
 <B> Bar Chart :</B>
+
 <B> Pie Chart :</B>
+
 <B> Donut Chart :</B>
+
 <B> Line Graph :</B>
+
 <B> Clustered line chart :</B>
+
 <B> Column Chart :</B>
 
 ![Screenshot (54)](https://github.com/user-attachments/assets/44dc60d8-0ef6-45bc-bb65-729579cf5b7d)
